@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yuhan-tang
 - 👀 I’m interested in Python, C++
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Seach me: https://github.com/tangyuhan-9015
+- 💞️ I’m Just a student.
+- 📫 My Github Page: [tangyuhan-9015.github.io](tangyuhan-9015.github.io)
