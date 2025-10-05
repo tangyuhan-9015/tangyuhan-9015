@@ -1,4 +1,4 @@
 - 👋 Hi，我是唐宇涵
 - 👀 说真的，我写过Python，C++，C#
 - 🌱 我还是个初中生
-- 📫 My Github Page: [tangyuhan-9015.github.io](tangyuhan-9015.github.io)
+- 📫 我的 Github Page(额 有bug): [tangyuhan-9015.github.io](tangyuhan-9015.github.io)
